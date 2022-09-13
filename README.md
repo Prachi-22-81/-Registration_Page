@@ -13,4 +13,3 @@ The form notifies that if the person has entered wrong credentials.
 
 SUCCESSFUL REGISTRATION
 The form notifies that if the person has successfully booked a seat or not.
-.
